@@ -1,0 +1,19 @@
+Classifying videos using machine learning.
+.
+.
+.
+.
+.
+.
+The purpose of this model is to mitigate misinformation in videos on the TikTok platform.
+
+The goal of this model is to predict whether a TikTok video presents a "claim" or presents an "opinion".
+
+This Project has two parts:
+
+Part 1: Feature engineering
+Perform feature selection, extraction, and transformation to prepare the data for modeling
+
+
+Part 2: Modeling
+Build the models, evaluation
